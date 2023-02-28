@@ -1,0 +1,5 @@
+*.env
+img.jpg
+bot_commands/API_KEYS.py
+__pycache__/
+bot_commands/__pycache__/
