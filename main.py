@@ -32,5 +32,6 @@ async def on_message(message):
 
 
         
-
-client.run(os.environ.get(ODc0NzcwMjMzNzU0MjY3NjU5.YRLzRA.Q2Xu9Gv-jw3OzJXsziKXUYcP4KM))
+# Generate new API Key
+# api_key = 
+#client.run(os.environ.get(api_key))
